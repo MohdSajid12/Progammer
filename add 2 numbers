@@ -1,0 +1,4 @@
+int a =4;
+int b =5;
+int c =a+b;
+console.log(a+b);    //9
